@@ -1,4 +1,4 @@
-package frames;
+//package frames;/*ignore this comment I put it here because on my computer I used a frame*/
 
 import javax.swing.*;
 
