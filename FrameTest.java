@@ -1,4 +1,4 @@
-package frames;
+//package frames;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
